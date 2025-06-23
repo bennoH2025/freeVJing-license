@@ -1,3 +1,7 @@
+🎛️ 🎨  
+**### 🟠 Protect creativity, empower VJs – the freeVJing license.**
+
+
 **Bilingual short description:**
 
 ## 🇬🇧 English:
@@ -23,6 +27,11 @@ We creatives, whether coders, graphic designers, or other digital art forms, hav
 ---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---
 
 
+
+
+
+🎛️ 🎨  
+**### 🟠 Kreativität schützen, VJs stärken – die freeVJing-Lizenz.**
 
 
 ## 🇩🇪 Deutsch:
