@@ -24,7 +24,8 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 - **Video Loop Creation**: Creating pre-rendered video loops using this software  
 - **Any commercial use** outside of VJ performances and video art installations
 
- ### This license was developed with support from ChatGPT (GPT-4o omni) by OpenAI
+ ### _This license was developed with support from Claude (Sonnet4) by Anthropic PBC_
+ ### _This license was developed with support from ChatGPT (GPT-4o omni) by OpenAI_
 
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
@@ -66,6 +67,7 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMA
 - **Erstellung von Videoloops**: Die Nutzung zur Erstellung vorgerenderter Videoloops ist untersagt  
 - **Jegliche kommerzielle Nutzung** außerhalb von VJ-Performances und Videokunst-Installationen  
 
+### _Diese Lizenz wurde mit Unterstützung von Claude (Sonnet4) von Anthropic PBC entworfen & weiter entwickelt._
 ### _Diese Lizenz wurde mit Unterstützung von ChatGPT (GPT-4o omni) von OpenAI entwickelt._
 
 ---
