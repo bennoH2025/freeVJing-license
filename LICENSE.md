@@ -30,3 +30,46 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY...
 
+
+
+
+---
+
+---
+
+
+
+
+
+
+# freeVJing-Lizenz 1.6  
+**Copyright (c) 2025 bennoH.**
+
+## ERLAUBTE VERWENDUNGEN
+- **VJ-Performances**: Nutzung bei VJ-Auftritten auf Veranstaltungen jeder Art, einschließlich kommerzieller Events  
+- **Videokunst-Installationen**: Einsatz durch Licht- und Videokünstler:innen in jeder künstlerischen Installationsform, inklusive immersiver und 360°-Installationen  
+- **Live-Visual-Performances**: Verwendung in Live-Visual-Shows und künstlerischen Präsentationen  
+
+## ERLAUBTE MODIFIKATIONEN
+- Die Software darf verändert und erweitert werden  
+- Modifizierte Versionen müssen unter derselben Lizenz weitergegeben werden  
+- Alle ursprünglichen Namensnennungen und Kommentare im Quellcode müssen erhalten bleiben  
+- Zusätzliche Hinweise und Nennungen dürfen hinzugefügt werden  
+
+## ERLAUBTE VERBREITUNG
+- Die Software darf ausschließlich kostenlos weitergegeben werden  
+- Bei Weitergabe muss diese Lizenz sowie alle ursprünglichen Angaben enthalten sein  
+- Weitergabe darf nur unter denselben Lizenzbedingungen erfolgen  
+
+## VERBOTENE VERWENDUNGEN
+- **Kommerzielle Produkte**: Einbindung in kommerzielle Software oder kostenpflichtige Pakete  
+- **Erstellung von Videoloops**: Die Nutzung zur Erstellung vorgerenderter Videoloops ist untersagt  
+- **Jegliche kommerzielle Nutzung** außerhalb von VJ-Performances und Videokunst-Installationen  
+
+### _Diese Lizenz wurde mit Unterstützung von ChatGPT (GPT-4o omni) von OpenAI entwickelt._
+
+---
+
+## HAFTUNGSAUSSCHLUSS
+DIE SOFTWARE WIRD „WIE BESEHEN“ BEREITGESTELLT – OHNE JEGLICHE AUSDRÜCKLICHE ODER IMPLIZIERTE GEWÄHRLEISTUNG, EINSCHLIESSLICH, ABER NICHT BESCHRÄNKT AUF DIE GEWÄHRLEISTUNG DER MARKTGÄNGIGKEIT, DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK ODER DER NICHTVERLETZUNG VON RECHTEN.  
+IN KEINEM FALL SIND DIE AUTOREN ODER COPYRIGHTINHABER FÜR IRGENDWELCHE ANSPRÜCHE, SCHÄDEN ODER ANDERE HAFTUNGEN VERANTWORTLICH, SEI ES AUFGRUND EINES VERTRAGS, EINER UNERLAUBTEN HANDLUNG ODER ANDERWEITIG, DIE AUS DER SOFTWARE ODER DER NUTZUNG DER SOFTWARE ENTSTEHEN.
