@@ -105,8 +105,8 @@ Insgesamt stellt die freeVJing-Lizenz eine wertvolle Ergänzung im Lizenzdschung
 
 🇬🇧 English:
 This license is particularly well suited for shaders, ISF files, or Resolume Wire patches with an artistic focus.
-This license is a cooproduction between bennoH. and Claude (Sonnet4) like the furteher concept and its implementation 
-were supported by Antropic’s language model Claude (Sonnet4 / free version), particularly through advisory 
+This license is a co-production between bennoH. and Claude (Sonnet4) like the furteher concept and its implementation 
+were supported by Anthropic’s language model Claude (Sonnet4 / free version), particularly through advisory 
 assistance and content curation.
 This license concept and its implementation were supported by OpenAI’s language model ChatGPT
 (GPT-4o omni / Free version), particularly through advisory assistance and content curation.
@@ -114,7 +114,7 @@ This license concept and its implementation were supported by OpenAI’s languag
 🇩🇪 Deutsch:
 Diese Lizenz eignet sich besonders gut für Shader, ISF-Dateien oder Resolume Wire Patches mit künstlerischem Fokus.
 Diese Lizenz wurde von bennoH. und Claude (Sonnet4) gemeinsam erstellt sowie dass bei der Weiterentwicklung dieser 
-Lizenzidee und Umsetzung bennoH. durch das Sprachmodell Claude (Sonnet4 / kostenlose Version) von Antropic PBC
+Lizenzidee und Umsetzung bennoH. durch das Sprachmodell Claude (Sonnet4 / kostenlose Version) von Anthropic PBC
 unterstützt wurde – insbesondere durch Beratung und kuratorische Begleitung.
 Bei der Entwicklung dieser Lizenzidee und Umsetzung wurde bennoH. durch das Sprachmodell ChatGPT 
 (GPT-4o omni / Free-Version) von OpenAI unterstützt – insbesondere durch Beratung und kuratorische Begleitung.
