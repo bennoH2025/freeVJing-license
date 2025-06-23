@@ -25,6 +25,16 @@ We creatives, whether coders, graphic designers, or other digital art forms, hav
 
 ## Evidence
 
+Comment by Claude (Sonnet4 / free version):
+
+Why the license works so well:
+* Community-friendly: VJs and video artists can work freely and even appear commercially
+* Exploitation protection: Prevents your work from ending up in commercial products
+* Easy to understand: Anyone can quickly understand what is and isn't allowed
+* Supportive for the scene: Encourages creative use in the live visual community
+"freeVJing-1.5" could even become a standard in the VJ community—it solves a real problem faced by many shader developers.
+
+
 Comment by ChatGPT (GPT-4o omni / Free version):
 
 The freeVJing license is a well-thought-out and clearly formulated solution that specifically addresses the needs of the VJ and video art community. Particularly commendable is its balanced approach between artistic freedom and protection against commercial exploitation. The clear distinction from standard licenses like CC BY-NC-SA makes this license practical and user-friendly.
@@ -63,6 +73,16 @@ Ich hoffe sehr, dass sich meine Lizenz rasch verbreitet und auf Plattformen wie 
 
 ## Evidenz
 
+Kommentar von Claude (Sonnet4 / kostenlose Version):
+
+Warum die Lizenz so gut funktioniert:
+* Community-freundlich: VJs und Videokünstler können frei arbeiten und sogar kommerziell auftreten
+* Schutz vor Ausbeutung: Verhindert, dass Ihre Arbeit in Verkaufsprodukten landet
+* Einfach verständlich: Jeder kann schnell verstehen, was erlaubt ist und was nicht
+* Fördernd für die Szene: Ermutigt kreative Nutzung in der Live-Visual-Community
+Die "freeVJing-1.5" könnte sogar zu einem Standard in der VJ-Community werden - sie löst ein echtes Problem, das viele Shader-Entwickler haben.
+
+
 Kommentar von ChatGPT (GPT-4o omni / Free version):
 
 Die freeVJing-Lizenz ist eine durchdachte und gut formulierte Lösung, die gezielt auf die Bedürfnisse der VJ- und Videokunst-Community eingeht. Besonders positiv hervorzuheben ist der ausgewogene Ansatz zwischen künstlerischer Freiheit und Schutz vor kommerzieller Ausbeutung. Die klare Abgrenzung gegenüber Standardlizenzen wie CC BY-NC-SA macht die Lizenz praxisnah und nutzerfreundlich. 
@@ -75,7 +95,7 @@ Insgesamt stellt die freeVJing-Lizenz eine wertvolle Ergänzung im Lizenzdschung
 
 
 ---
-------**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**-------         *******        ------**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**-------
+------**---**---**---**---**---**---**---**---**---**---**---**---**-------         *******        ------**---**---**---**---**---**---**---**---**---**---**---**---**-------
 ---
 
 
@@ -85,10 +105,16 @@ Insgesamt stellt die freeVJing-Lizenz eine wertvolle Ergänzung im Lizenzdschung
 
 🇬🇧 English:
 This license is particularly well suited for shaders, ISF files, or Resolume Wire patches with an artistic focus.
+This license is a cooproduction between bennoH. and Claude (Sonnet4) like the furteher concept and its implementation 
+were supported by Antropic’s language model Claude (Sonnet4 / free version), particularly through advisory 
+assistance and content curation.
 This license concept and its implementation were supported by OpenAI’s language model ChatGPT
 (GPT-4o omni / Free version), particularly through advisory assistance and content curation.
 
 🇩🇪 Deutsch:
 Diese Lizenz eignet sich besonders gut für Shader, ISF-Dateien oder Resolume Wire Patches mit künstlerischem Fokus.
-Bei der Entwicklung dieser Lizenzidee und Umsetzung wurde ich durch das Sprachmodell ChatGPT 
+Diese Lizenz wurde von bennoH. und Claude (Sonnet4) gemeinsam erstellt sowie dass bei der Weiterentwicklung dieser 
+Lizenzidee und Umsetzung bennoH. durch das Sprachmodell Claude (Sonnet4 / kostenlose Version) von Antropic PBC
+unterstützt wurde – insbesondere durch Beratung und kuratorische Begleitung.
+Bei der Entwicklung dieser Lizenzidee und Umsetzung wurde bennoH. durch das Sprachmodell ChatGPT 
 (GPT-4o omni / Free-Version) von OpenAI unterstützt – insbesondere durch Beratung und kuratorische Begleitung.
