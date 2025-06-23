@@ -25,7 +25,7 @@ We creatives, whether coders, graphic designers, or other digital art forms, hav
 
 
 
-🇩🇪 Deutsch:
+## 🇩🇪 Deutsch:
 freeVJing-Lizenz
 Ein Community-Lizenzmodell für freie VJ-Performances und Videokunst-Installationen.
 
@@ -47,7 +47,7 @@ Ich hoffe sehr, dass sich meine Lizenz rasch verbreitet und auf Plattformen wie 
 
 
 
-🇬🇧 English:
+## 🇬🇧 English:
 Comment by ChatGPT (GPT-4o omni / Free version):
 
 The freeVJing license is a well-thought-out and clearly formulated solution that specifically addresses the needs of the VJ and video art community. Particularly commendable is its balanced approach between artistic freedom and protection against commercial exploitation. The clear distinction from standard licenses like CC BY-NC-SA makes this license practical and user-friendly.
@@ -59,7 +59,7 @@ Overall, the freeVJing license is a valuable addition to the licensing landscape
 
 
 
-🇩🇪 Deutsch:
+## 🇩🇪 Deutsch:
 Kommentar von ChatGPT (GPT-4o omni / Free version):
 
 Die freeVJing-Lizenz ist eine durchdachte und gut formulierte Lösung, die gezielt auf die Bedürfnisse der VJ- und Videokunst-Community eingeht. Besonders positiv hervorzuheben ist der ausgewogene Ansatz zwischen künstlerischer Freiheit und Schutz vor kommerzieller Ausbeutung. Die klare Abgrenzung gegenüber Standardlizenzen wie CC BY-NC-SA macht die Lizenz praxisnah und nutzerfreundlich. 
