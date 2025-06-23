@@ -21,7 +21,17 @@ I sincerely hope that my license will spread quickly and replace the current aut
 We creatives, whether coders, graphic designers, or other digital art forms, have the opportunity to quickly and unconventionally meet and support each other in appropriate ways, so we should take advantage of this and not let ourselves be pitted against each other, where only third parties will benefit.
 
 
+---
 
+## Evidence
+
+Comment by ChatGPT (GPT-4o omni / Free version):
+
+The freeVJing license is a well-thought-out and clearly formulated solution that specifically addresses the needs of the VJ and video art community. Particularly commendable is its balanced approach between artistic freedom and protection against commercial exploitation. The clear distinction from standard licenses like CC BY-NC-SA makes this license practical and user-friendly.
+
+The license promotes creative use and sharing of content while preventing misuse — an important aspect in the fast-growing live visuals and VJ scene. Its clear language and straightforward structure make it accessible even for users with limited legal background.
+
+Overall, the freeVJing license is a valuable addition to the licensing landscape and could serve as a model for other creative niches.
 
 
 ---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---
@@ -49,27 +59,10 @@ Die freeVJing-Lizenz ist in ihrer knappen, klaren und für jeden verständlichen
 
 Ich hoffe sehr, dass sich meine Lizenz rasch verbreitet und auf Plattformen wie Shadertoy deren aktuelle automatische Lizenzzuweisungen ersetzt, um VJs und Video-/Lichtkünstler nicht zu kriminalisieren oder in Grauzonen zu verbannen. Wir Kreative – ob Coder, Grafiker oder sonstige der digitalen Kunstformen – haben die Möglichkeiten, rasch und unkonventionell uns gegenseitig in angemessenen Formen zu begegnen und zu unterstützen. Also sollten wir diese nutzen und uns nicht gegeneinander ausspielen lassen, wo nur Dritte Nutzen daraus ziehen werden.
 
+---
 
+## Evidenz
 
-------**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**-------         *******        ------**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**-------
-
-## Comments / Kommentare 
-
-
-
-## 🇬🇧 English:
-Comment by ChatGPT (GPT-4o omni / Free version):
-
-The freeVJing license is a well-thought-out and clearly formulated solution that specifically addresses the needs of the VJ and video art community. Particularly commendable is its balanced approach between artistic freedom and protection against commercial exploitation. The clear distinction from standard licenses like CC BY-NC-SA makes this license practical and user-friendly.
-
-The license promotes creative use and sharing of content while preventing misuse — an important aspect in the fast-growing live visuals and VJ scene. Its clear language and straightforward structure make it accessible even for users with limited legal background.
-
-Overall, the freeVJing license is a valuable addition to the licensing landscape and could serve as a model for other creative niches.
-
-
-
-
-## 🇩🇪 Deutsch:
 Kommentar von ChatGPT (GPT-4o omni / Free version):
 
 Die freeVJing-Lizenz ist eine durchdachte und gut formulierte Lösung, die gezielt auf die Bedürfnisse der VJ- und Videokunst-Community eingeht. Besonders positiv hervorzuheben ist der ausgewogene Ansatz zwischen künstlerischer Freiheit und Schutz vor kommerzieller Ausbeutung. Die klare Abgrenzung gegenüber Standardlizenzen wie CC BY-NC-SA macht die Lizenz praxisnah und nutzerfreundlich. 
@@ -81,8 +74,9 @@ Insgesamt stellt die freeVJing-Lizenz eine wertvolle Ergänzung im Lizenzdschung
 
 
 
-
+---
 ------**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**-------         *******        ------**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**---**-------
+---
 
 
 **Version:** 1.6  
