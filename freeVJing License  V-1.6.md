@@ -46,6 +46,8 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMA
 # freeVJing-Lizenz 1.6  
 **Copyright (c) 2025 bennoH.**
 
+Jedem, der eine Kopie dieser Software und der zugehörigen Dokumentationsdateien (die „Software“) erhält, wird hiermit unentgeltlich die Genehmigung erteilt, die Software ausschließlich für die folgenden zulässigen Zwecke zu verwenden:
+
 ## ERLAUBTE VERWENDUNGEN
 - **VJ-Performances**: Nutzung bei VJ-Auftritten auf Veranstaltungen jeder Art, einschließlich kommerzieller Events  
 - **Videokunst-Installationen**: Einsatz durch Licht- und Videokünstler:innen in jeder künstlerischen Installationsform, inklusive immersiver und 360°-Installationen  
