@@ -32,7 +32,7 @@ Why the license works so well:
 * Exploitation protection: Prevents your work from ending up in commercial products
 * Easy to understand: Anyone can quickly understand what is and isn't allowed
 * Supportive for the scene: Encourages creative use in the live visual community
-"freeVJing-1.5" could even become a standard in the VJ community—it solves a real problem faced by many shader developers.
+"freeVJing-1.6" could even become a standard in the VJ community—it solves a real problem faced by many shader developers.
 
 
 **- Comment by ChatGPT (GPT-4o omni):**
