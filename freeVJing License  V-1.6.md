@@ -20,7 +20,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 - Redistribution must be under the same license terms
 
 ## PROHIBITED USES:
-* * **Commercial Products**: Incorporation into commercial software products or packages for sale  
+* **Commercial Products**: Incorporation into commercial software products or packages for sale  
 * **Video Loop Creation**: Creating video loops or pre-rendered content using this Software  
 * **Any commercial use** outside of VJ performances and video art installations
 
