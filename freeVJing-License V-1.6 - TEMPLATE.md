@@ -1,6 +1,5 @@
 # freeVJing License 1.6 - Template
 
-**Anweisungen:** Ersetzen Sie `[YEAR]` mit dem aktuellen Jahr und `[AUTHOR NAME]` mit Ihrem Namen oder Ihrer Organisation.  
 **Instructions:** Replace `[YEAR]` with the current year and `[AUTHOR NAME]` with your name or organization.
 
 ---
@@ -45,9 +44,13 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ---
 
-## freeVJing-Lizenz 1.6
+## freeVJing-Lizenz 1.6 - Vorlage
 
-**Copyright (c) [YEAR] [AUTHOR NAME]**
+**Anweisungen:** Ersetzen Sie `[YEAR]` mit dem aktuellen Jahr und `[AUTHOR NAME]` mit Ihrem Namen oder Ihrer Organisation.  
+
+**Copyright (c) [Jahr] [NAME DES AUTHORS]**
+
+Jedem, der eine Kopie dieser Software und der zugehörigen Dokumentationsdateien (die „Software“) erhält, wird hiermit unentgeltlich die Genehmigung erteilt, die Software ausschließlich für die folgenden zulässigen Zwecke zu verwenden:
 
 ### ERLAUBTE VERWENDUNGEN
 * **VJ-Performances**: Nutzung bei VJ-Auftritten auf Veranstaltungen jeder Art, einschließlich kommerzieller Events
