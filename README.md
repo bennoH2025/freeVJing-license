@@ -25,7 +25,7 @@ We creatives, whether coders, graphic designers, or other digital art forms, hav
 
 ## Evidence
 
-Comment by Claude (Sonnet4):
+**Comment by Claude (Sonnet4):**
 
 Why the license works so well:
 * Community-friendly: VJs and video artists can work freely and even appear commercially
@@ -35,7 +35,7 @@ Why the license works so well:
 "freeVJing-1.5" could even become a standard in the VJ community—it solves a real problem faced by many shader developers.
 
 
-Comment by ChatGPT (GPT-4o omni):
+**Comment by ChatGPT (GPT-4o omni):**
 
 The freeVJing license is a well-thought-out and clearly formulated solution that specifically addresses the needs of the VJ and video art community. Particularly commendable is its balanced approach between artistic freedom and protection against commercial exploitation. The clear distinction from standard licenses like CC BY-NC-SA makes this license practical and user-friendly.
 
