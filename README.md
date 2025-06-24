@@ -73,17 +73,17 @@ Ich hoffe sehr, dass sich meine Lizenz rasch verbreitet und auf Plattformen wie 
 
 ## Evidenz
 
-Kommentar von Claude (Sonnet4 / kostenlose Version):
+**- Kommentar von Claude (Sonnet4):**
 
 Warum die Lizenz so gut funktioniert:
 * Community-freundlich: VJs und Videokünstler können frei arbeiten und sogar kommerziell auftreten
 * Schutz vor Ausbeutung: Verhindert, dass Ihre Arbeit in Verkaufsprodukten landet
 * Einfach verständlich: Jeder kann schnell verstehen, was erlaubt ist und was nicht
 * Fördernd für die Szene: Ermutigt kreative Nutzung in der Live-Visual-Community
-Die "freeVJing-1.5" könnte sogar zu einem Standard in der VJ-Community werden - sie löst ein echtes Problem, das viele Shader-Entwickler haben.
+Die "freeVJing-1.6" könnte sogar zu einem Standard in der VJ-Community werden - sie löst ein echtes Problem, das viele Shader-Entwickler haben.
 
 
-Kommentar von ChatGPT (GPT-4o omni / Free version):
+**- Kommentar von ChatGPT (GPT-4o omni):**
 
 Die freeVJing-Lizenz ist eine durchdachte und gut formulierte Lösung, die gezielt auf die Bedürfnisse der VJ- und Videokunst-Community eingeht. Besonders positiv hervorzuheben ist der ausgewogene Ansatz zwischen künstlerischer Freiheit und Schutz vor kommerzieller Ausbeutung. Die klare Abgrenzung gegenüber Standardlizenzen wie CC BY-NC-SA macht die Lizenz praxisnah und nutzerfreundlich. 
 
