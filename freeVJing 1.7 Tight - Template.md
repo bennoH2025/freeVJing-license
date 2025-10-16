@@ -1,4 +1,4 @@
-// =====================================================================================
+// ===================================================================================== 
 // Instructions: Replace [YEAR] with the current year and [AUTHOR NAME] with your name or organization.
 //
 // freeVJing License 1.7 Tight
