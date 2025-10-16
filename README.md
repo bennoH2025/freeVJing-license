@@ -10,6 +10,8 @@ A community license model for free VJ performances and video art installations.
 
 The *freeVJing License* is a community-friendly license that allows **free use in live visuals and VJ performances**, including commercial events, but **forbids commercial exploitation**, such as software integration, video loop production, or resale.
 
+As theft, data scraping, and plagiarism continue to increase, the "freeVJing License 1.7 Tight" was developed as a stricter variant. It allows developers to share their work with the community but under very tightly controlled conditions: the work remains inseparably linked to its creator, redistribution must reference the original source, and modifications are prohibited. At the same time, version 1.7 Tight enables complete artistic freedom of use – from live performances in commercial VJ setups to integration in art installations and immersive experiences, even in commercial contexts.
+
 Perfect for artists who want to share their work but don't want to completely relinquish control over its use.
 This license is particularly well suited for shaders, ISF files, or Resolume Wire patches with an artistic focus.
 
@@ -59,6 +61,8 @@ freeVJing-Lizenz
 Ein Community-Lizenzmodell für freie VJ-Performances und Videokunst-Installationen.
 
 Die freeVJing License ist eine speziell für die VJ-Community entwickelte Lizenz, die eine freie Nutzung für visuelle Live-Performances und Videokunst erlaubt – inklusive kommerzieller Events – jedoch kommerzielle Ausbeutung wie Software-Integration, Loop-Erstellung und Reselling ausdrücklich verbietet.
+
+Da Diebstahl, Datenklau und Plagiate immer mehr zunehmen, wurde mit der "freeVJing License 1.7 Tight" eine strengere Variante entwickelt. Sie bietet Entwicklern die Möglichkeit, ihre Arbeit der Community zu schenken – aber unter sehr eng kontrollierten Bedingungen: Das Werk bleibt untrennbar mit dem Urheber verbunden, Weitergaben müssen zur Originalquelle zurückverweisen, und Anpassungen sind nicht gestattet. Gleichzeitig ermöglicht die 1.7 Tight volle künstlerische Nutzungsfreiheit – vom Live-Einsatz beim kommerziellen VJing bis zur Integration in Kunstinstallationen und immersive Erlebnisse, auch in kommerziellen Kontexten.
 
 Ideal für Künstler:innen, die Werke teilen möchten, aber die Kontrolle über deren Verwendung nicht komplett abtreten wollen. 
 Diese Lizenz eignet sich besonders gut für Shader, ISF-Dateien oder Resolume Wire Patches mit künstlerischem Fokus.
